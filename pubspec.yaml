@@ -10,7 +10,7 @@ topics:
   - wordpiece
 
 environment:
-  sdk: ^3.10.7
+  sdk: ^3.10.1
 
 # Add regular dependencies here.
 dependencies:
