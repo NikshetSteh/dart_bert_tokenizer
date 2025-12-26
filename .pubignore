@@ -1,0 +1,12 @@
+# Vocabulary file (users should download from HuggingFace)
+vocab.txt
+
+# IDE and OS files
+.idea/
+.DS_Store
+
+# Git
+.git/
+
+# Python scripts (for development only)
+scripts/
